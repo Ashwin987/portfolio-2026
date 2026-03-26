@@ -419,35 +419,35 @@ export default function App() {
               </div>
             </div>
 
-            {/* AFC Bournemouth */}
-            <div className="bg-[#ffffff] rounded-[16px] p-[35px] mb-[30px] shadow-[0_4px_20px_-5px_rgba(0,0,0,0.05)] border border-black/5 transition-all duration-300 hover:-translate-y-[3px] hover:shadow-[0_10px_30px_-5px_rgba(0,0,0,0.1)]">
-              <div className="text-[1.4rem] font-[700] text-[#111827] mb-[8px]">AFC Bournemouth Scouting Report - Summer 2025</div>
-              <span className="text-[0.9rem] text-[#2563eb] font-[600] mb-[15px] block uppercase tracking-[0.5px]">R • Clustering • Radar Charts • Efficiency Scoring</span>
-              <p className="text-[#6b7280] mb-[15px] text-[1rem]">Developed a data-driven recruitment strategy to support AFC Bournemouth's summer transfer window. Utilized K-Means clustering and custom Efficiency Scores to identify players fitting the tactical profile. The analysis successfully identified Bafodé Diakité as a top target.</p>
-              <div className="mt-[25px] flex flex-wrap gap-[12px]">
-                <a href="https://github.com/Ashwin987/afc-bournemouth-" target="_blank" rel="noreferrer" className="px-[20px] py-[10px] rounded-[8px] font-[500] text-[0.9rem] inline-flex items-center gap-[8px] bg-[#111827] text-white hover:bg-[#2563eb] transition-all">
-                  <i className="fab fa-github"></i> View Code
-                </a>
-                <a href="/Bournmouth_project-3.pdf" target="_blank" rel="noreferrer" className="px-[20px] py-[10px] rounded-[8px] font-[500] text-[0.9rem] inline-flex items-center gap-[8px] bg-transparent text-[#111827] border border-[#e5e7eb] hover:border-[#6b7280] hover:bg-[#f9fafb] transition-all">
-                  <i className="fas fa-file-pdf"></i> Scouting Report
-                </a>
-              </div>
-            </div>
+           {/* AFC Bournemouth */}
+<div className="bg-[#ffffff] rounded-[16px] p-[35px] mb-[30px] shadow-[0_4px_20px_-5px_rgba(0,0,0,0.05)] border border-black/5 transition-all duration-300 hover:-translate-y-[3px] hover:shadow-[0_10px_30px_-5px_rgba(0,0,0,0.1)]">
+  <div className="text-[1.4rem] font-[700] text-[#111827] mb-[8px]">AFC Bournemouth Scouting Report - Summer 2025</div>
+  <span className="text-[0.9rem] text-[#2563eb] font-[600] mb-[15px] block uppercase tracking-[0.5px]">R • Clustering • Radar Charts • Efficiency Scoring</span>
+  <p className="text-[#6b7280] mb-[15px] text-[1rem]">Developed a data-driven recruitment strategy to support AFC Bournemouth's summer transfer window. Utilized K-Means clustering and custom Efficiency Scores to identify players fitting the tactical profile. The analysis successfully identified Bafodé Diakité as a top target.</p>
+  <div className="mt-[25px] flex flex-wrap gap-[12px]">
+    <a href="https://github.com/Ashwin987/afc-bournemouth-" target="_blank" rel="noreferrer" className="px-[20px] py-[10px] rounded-[8px] font-[500] text-[0.9rem] inline-flex items-center gap-[8px] bg-[#111827] text-white hover:bg-[#2563eb] transition-all">
+      <i className="fab fa-github"></i> View Code
+    </a>
+    <a href="/Bournmouth_project-3.pdf" target="_blank" rel="noreferrer" className="px-[20px] py-[10px] rounded-[8px] font-[500] text-[0.9rem] inline-flex items-center gap-[8px] bg-transparent text-[#111827] border border-[#e5e7eb] hover:border-[#6b7280] hover:bg-[#f9fafb] transition-all">
+      <i className="fas fa-file-pdf"></i> Scouting Report
+    </a>
+  </div>
+</div>
 
-            {/* Chelsea FC */}
-            <div className="bg-[#ffffff] rounded-[16px] p-[35px] mb-[30px] shadow-[0_4px_20px_-5px_rgba(0,0,0,0.05)] border border-black/5 transition-all duration-300 hover:-translate-y-[3px] hover:shadow-[0_10px_30px_-5px_rgba(0,0,0,0.1)]">
-              <div className="text-[1.4rem] font-[700] text-[#111827] mb-[8px]">Monitoring Injury Risk & Performance: Chelsea FC</div>
-              <span className="text-[0.9rem] text-[#2563eb] font-[600] mb-[15px] block uppercase tracking-[0.5px]">Python • Power BI • Random Forest • Time-Series</span>
-              <p className="text-[#6b7280] mb-[15px] text-[1rem]">Developed the Load Balance Efficiency Score (LBES), a composite metric that unifies GPS, wellness, and physical testing data to quantify player readiness. Implemented a Random Forest Classifier to predict injury risk sessions with 100% precision.</p>
-              <div className="mt-[25px] flex flex-wrap gap-[12px]">
-                <a href="https://github.com/Ashwin987/Chelsea-FC-Vizathon-2025" target="_blank" rel="noreferrer" className="px-[20px] py-[10px] rounded-[8px] font-[500] text-[0.9rem] inline-flex items-center gap-[8px] bg-[#111827] text-white hover:bg-[#2563eb] transition-all">
-                  <i className="fab fa-github"></i> View Code
-                </a>
-                <a href="/Chelsea_Vizathon_Final_Report.pdf" target="_blank" rel="noreferrer" className="px-[20px] py-[10px] rounded-[8px] font-[500] text-[0.9rem] inline-flex items-center gap-[8px] bg-transparent text-[#111827] border border-[#e5e7eb] hover:border-[#6b7280] hover:bg-[#f9fafb] transition-all">
-                  <i className="fas fa-file-pdf"></i> Final Report
-                </a>
-              </div>
-            </div>
+{/* Chelsea FC */}
+<div className="bg-[#ffffff] rounded-[16px] p-[35px] mb-[30px] shadow-[0_4px_20px_-5px_rgba(0,0,0,0.05)] border border-black/5 transition-all duration-300 hover:-translate-y-[3px] hover:shadow-[0_10px_30px_-5px_rgba(0,0,0,0.1)]">
+  <div className="text-[1.4rem] font-[700] text-[#111827] mb-[8px]">Monitoring Injury Risk & Performance: Chelsea FC</div>
+  <span className="text-[0.9rem] text-[#2563eb] font-[600] mb-[15px] block uppercase tracking-[0.5px]">Python • Power BI • Random Forest • Time-Series</span>
+  <p className="text-[#6b7280] mb-[15px] text-[1rem]">Developed the Load Balance Efficiency Score (LBES), a composite metric that unifies GPS, wellness, and physical testing data to quantify player readiness. Implemented a Random Forest Classifier to predict injury risk sessions with 100% precision.</p>
+  <div className="mt-[25px] flex flex-wrap gap-[12px]">
+    <a href="https://github.com/Ashwin987/Chelsea-FC-Vizathon-2025" target="_blank" rel="noreferrer" className="px-[20px] py-[10px] rounded-[8px] font-[500] text-[0.9rem] inline-flex items-center gap-[8px] bg-[#111827] text-white hover:bg-[#2563eb] transition-all">
+      <i className="fab fa-github"></i> View Code
+    </a>
+    <a href="/Chelsea_Vizathon_Final_Report.pdf" target="_blank" rel="noreferrer" className="px-[20px] py-[10px] rounded-[8px] font-[500] text-[0.9rem] inline-flex items-center gap-[8px] bg-transparent text-[#111827] border border-[#e5e7eb] hover:border-[#6b7280] hover:bg-[#f9fafb] transition-all">
+      <i className="fas fa-file-pdf"></i> Final Report
+    </a>
+  </div>
+</div>
 
             {/* NBA Rookie */}
             <div className="bg-[#ffffff] rounded-[16px] p-[35px] mb-[30px] shadow-[0_4px_20px_-5px_rgba(0,0,0,0.05)] border border-black/5 transition-all duration-300 hover:-translate-y-[3px] hover:shadow-[0_10px_30px_-5px_rgba(0,0,0,0.1)]">
