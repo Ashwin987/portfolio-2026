@@ -477,22 +477,19 @@ export default function App() {
             </div>
 
             {/* EPL Performance */}
-            <div className="bg-[#ffffff] rounded-[16px] p-[35px] mb-[30px] shadow-[0_4px_20px_-5px_rgba(0,0,0,0.05)] border border-black/5 transition-all duration-300 hover:-translate-y-[3px] hover:shadow-[0_10px_30px_-5px_rgba(0,0,0,0.1)]">
-              <div className="text-[1.4rem] font-[700] text-[#111827] mb-[8px]">EPL Team Performance & Spending Efficiency</div>
-              <span className="text-[0.9rem] text-[#2563eb] font-[600] mb-[15px] block uppercase tracking-[0.5px]">R • Poisson Regression • K-Means • Tableau</span>
-              <p className="text-[#6b7280] mb-[15px] text-[1rem]">Investigated the efficiency of Premier League clubs by analyzing the relationship between financial resources and on-field success. Applied K-Means Clustering to identify "efficient buyers" and implemented Poisson Regression models to predict win totals.</p>
-              <div className="mt-[25px] flex flex-wrap gap-[12px]">
-                <a href="https://github.com/Ashwin987/EPL-Performance-Analysis" target="_blank" rel="noreferrer" className="px-[20px] py-[10px] rounded-[8px] font-[500] text-[0.9rem] inline-flex items-center gap-[8px] bg-[#111827] text-white hover:bg-[#2563eb] transition-all">
-                  <i className="fab fa-github"></i> View Code
-                </a>
-                <a href="/Project Writeup.pdf" target="_blank" rel="noreferrer" className="px-[20px] py-[10px] rounded-[8px] font-[500] text-[0.9rem] inline-flex items-center gap-[8px] bg-transparent text-[#111827] border border-[#e5e7eb] hover:border-[#6b7280] hover:bg-[#f9fafb] transition-all">
-                  <i className="fas fa-file-pdf"></i> View Writeup
-                </a>
-              </div>
-            </div>
-
-          </div>
-        )}
+<div className="bg-[#ffffff] rounded-[16px] p-[35px] mb-[30px] shadow-[0_4px_20px_-5px_rgba(0,0,0,0.05)] border border-black/5 transition-all duration-300 hover:-translate-y-[3px] hover:shadow-[0_10px_30px_-5px_rgba(0,0,0,0.1)]">
+  <div className="text-[1.4rem] font-[700] text-[#111827] mb-[8px]">EPL Team Performance & Spending Efficiency</div>
+  <span className="text-[0.9rem] text-[#2563eb] font-[600] mb-[15px] block uppercase tracking-[0.5px]">R • Poisson Regression • K-Means • Tableau</span>
+  <p className="text-[#6b7280] mb-[15px] text-[1rem]">Investigated the efficiency of Premier League clubs by analyzing the relationship between financial resources and on-field success. Applied K-Means Clustering to identify "efficient buyers" and implemented Poisson Regression models to predict win totals.</p>
+  <div className="mt-[25px] flex flex-wrap gap-[12px]">
+    <a href="https://github.com/Ashwin987/EPL-Performance-Analysis" target="_blank" rel="noreferrer" className="px-[20px] py-[10px] rounded-[8px] font-[500] text-[0.9rem] inline-flex items-center gap-[8px] bg-[#111827] text-white hover:bg-[#2563eb] transition-all">
+      <i className="fab fa-github"></i> View Code
+    </a>
+    <a href="/Project_Writeup.pdf" target="_blank" rel="noreferrer" className="px-[20px] py-[10px] rounded-[8px] font-[500] text-[0.9rem] inline-flex items-center gap-[8px] bg-transparent text-[#111827] border border-[#e5e7eb] hover:border-[#6b7280] hover:bg-[#f9fafb] transition-all">
+      <i className="fas fa-file-pdf"></i> View Writeup
+    </a>
+  </div>
+</div>
 
 {/* ================= NEW: AI TACTICAL GAME ANALYZER DEDICATED PAGE ================= */}
         {currentPage === 'tactical-ai' && (
